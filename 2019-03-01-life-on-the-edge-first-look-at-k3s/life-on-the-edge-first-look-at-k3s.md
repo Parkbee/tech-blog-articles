@@ -1,6 +1,6 @@
 # Life on the Edge: A First Look at Rancher's Lightweight Kubernetes Distro K3s
 
-![K3s](https://k3s.io/img/logo.svg?1)
+![K3s logo](https://raw.githubusercontent.com/Parkbee/tech-blog-articles/master/2019-03-01-life-on-the-edge-first-look-at-k3s/img/k3s-logo.png)
 
 At ParkBee, we are taking our first steps into performing containerized deployments in our edge locations. Since we are a mobility hub provider, the need to deploy applications which contain our business logic is crucial to making our locations work as expected.
 
